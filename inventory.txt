@@ -1,0 +1,9 @@
+coconut,680,70.0
+surf,1985,10.0
+yet,9,90.0
+uet,94,79.0
+ter,1,90.0
+usama,1,90.0
+Apple,85,200.0
+kurkure,180,10.0
+choco bar,10,20.0

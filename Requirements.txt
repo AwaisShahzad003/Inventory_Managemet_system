@@ -2,3 +2,4 @@ streamlit==1.28.1
 supabase==2.5.1
 python-dotenv==1.0.0
 fpdf==1.7.2
+st-supabase-connection
